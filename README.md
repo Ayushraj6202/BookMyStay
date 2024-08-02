@@ -90,3 +90,6 @@ This project is a full-stack web application developed using the MERN stack (Mon
 - **JWT:** JSON Web Tokens for secure user authentication.
 - **Cloudinary:** Cloud-based image management for storing and serving images.
 - **Google Cloud:** For gmail based authentication
+
+## 
+For any questions or feedback, please reach out to [Ayush Raj](https://www.linkedin.com/in/ayush-raj-469737246/)
